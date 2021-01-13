@@ -5,7 +5,7 @@
 ![stars](https://img.shields.io/github/stars/therealkingnull/baseball-logic) 
 ![license](https://img.shields.io/github/license/therealkingnull/baseball-logic) 
 
-A Package that helps you determine where to throw the ball in baseball.
+A package that figures out where the ball should be thrown in baseball.
 
 ## Install
 
