@@ -11,7 +11,7 @@ A package that figures out where the ball should be thrown in baseball.
 ## Install
 
 ```
-$ npm install @therealkingnull/logic
+$ npm install @therealkingnull/baseball-logic
 ```
 
 ## Usage
