@@ -45,8 +45,8 @@ When calling for new logic, you will need to pass in the following strings:
 * Number of outs - (0, 1, 2, or 3) - String
 * Runners - (See above) - String
 * Play - (See above) - String
-
-## Understanding Data
+---
+### Understanding Data
 If you make a sucessful attempt, you should recieve data that looks something like this:
 ```js
 "throw 2 via SS"
