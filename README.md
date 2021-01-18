@@ -64,7 +64,7 @@ const baseball = require("@therealkingnull/baseball-logic");
 var trivia = baseball.trivia("LF", "1");
 ```
 This example would return data that looks like the following:
-```json
+```js
 [
   {
     id: '1',
